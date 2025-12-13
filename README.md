@@ -1,7 +1,7 @@
-# Module 1 Project – Smart Waste Tracker
+# Module 1-7 Projects – Smart Waste Tracker
 
-This repository contains the Module 1 project for the course.  
-Smart Waste Tracker is an IoT-based system for monitoring waste levels in urban bins.
+This repository contains the Module 1 to 7 projects for the course.  
+Smart Waste Tracker is an IoT-based systm for monitoring waste levels in urban bins.
 
 ## Team Member
 Quinton Alexandre
